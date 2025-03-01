@@ -1,6 +1,6 @@
 <h2 align="center">
   <br>
-  KAZURAGE
+  kazurage
 </h2>
 
 <p align="center">
