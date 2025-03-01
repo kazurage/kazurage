@@ -11,7 +11,7 @@
 </div>
 <hr>
 <details>
-  <summary>⚡ Tech Stack</summary>
+  <summary>Мои спецальности</summary>
   <br>
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
