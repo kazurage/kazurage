@@ -9,19 +9,6 @@
   </a>
 </p>
 <div align="center">
-class Developer:
-    def __init__(self):
-        self.name = "kazurage"
-        self.role = "Bot Developer"
-        self.languages = ["Python", "JavaScript"]
-        self.specialties = ["Telegram Bots", "Discord Bots"]
-        self.status = "coding..."
-        
-    def greet(self):
-        return f"👋 Welcome to {self.name}'s digital dimension"
-        
-me = Developer()
-print(me.greet())
 </div>
 <hr>
 <details>
