@@ -33,7 +33,3 @@
 </div>
 
 <hr>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kazurage&style=flat-square&color=blueviolet" alt="Profile views">
-</div>
