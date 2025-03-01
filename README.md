@@ -1,5 +1,4 @@
 <h2 align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTd3Z3UwODRtdGZhc2ptZGVsYzN5NnI0aW9kbjlkd2licGx5a3d5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L8K62iTDkzGX6/giphy.gif" width="100">
   <br>
   KAZURAGE
 </h2>
