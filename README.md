@@ -1,6 +1,9 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/kazurage" width="150" height="150" style="border-radius:50%;" alt="Kazurage Avatar">
+</p>
+
 <h2 align="center">
-  <br>
-  kazurage
+  KAZURAGE
 </h2>
 
 <p align="center">
