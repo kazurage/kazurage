@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/kazurage" width="150" height="150" style="border-radius:50%;" alt="Kazurage Avatar">
+  <img src="https://i.pinimg.com/736x/ab/c7/f4/abc7f4f9b837782c8966f338aac033f3.jpg" width="100%" alt="Banner">
 </p>
 
 <h2 align="center">
@@ -31,9 +31,3 @@
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazurage&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 </div>
-
-<br>
-
-<p align="center">
-  <img src="https://i.pinimg.com/736x/ab/c7/f4/abc7f4f9b837782c8966f338aac033f3.jpg" width="100%" alt="Banner">
-</p>
