@@ -19,26 +19,6 @@
   <img src="https://img.shields.io/badge/Telegram_API-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram API">
   <img src="https://img.shields.io/badge/Discord_API-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord API">
 </details>
-<details>
-  <summary>🤖 Bot Universe</summary>
-  <br>
-  <div align="center">
-    <table>
-      <tr>
-        <td align="center">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd29kbGFicWIzMjJzenJiejMwemFvdmxoaDM2MzRwMHdpdzdrazU1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CchzkJJ6UrQmQ/giphy.gif" width="100">
-          <br>
-          <b>Telegram Bots</b>
-        </td>
-        <td align="center">
-          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZyeWQ0djZ0MnZxZW9qbXM0MXRueWFvZDVuY2VhN2ZoNnN5eGpvbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YnkMcHgNIMW4Yfmjus/giphy.gif" width="100">
-          <br>
-          <b>Discord Bots</b>
-        </td>
-      </tr>
-    </table>
-  </div>
-</details>
 <hr>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kazurage&theme=tokyonight&hide_border=true" alt="kazurage's streak stats">
