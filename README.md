@@ -3,7 +3,7 @@
 </p>
 
 <h2 align="center">
-  KAZURAGE
+  kazurage
 </h2>
 
 <p align="center">
@@ -31,5 +31,3 @@
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazurage&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 </div>
-
-<hr>
