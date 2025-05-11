@@ -11,7 +11,3 @@
     <img src="https://img.shields.io/badge/Telegram-kazurage-blue?style=for-the-badge&logo=telegram&logoColor=white&color=0088cc">
   </a>
 </p>
-
-<hr>
-
-<h3 align="center">Мои специальности</h3>
