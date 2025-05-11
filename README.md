@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="banner.mp4" width="75%" alt="Banner">
+  <video src="banner.mp4" width="75%" autoplay loop muted playsinline>
+  </video>
 </p>
 
 <h2 align="center">
