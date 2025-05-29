@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1346584024805543996/1371053028249174089/video_2025-05-10_11-35-53.gif?ex=6821bc22&is=68206aa2&hm=6b4c1a2b41bfd40043d9c5aab3df43143ee75fb6cb7e5f97c0b82065a24b56c5&" width="75%" alt="Banner">
+<img src="https://cdn.discordapp.com/attachments/1346584024805543996/1371053028249174089/video_2025-05-10_11-35-53.gif?ex=68397722&is=683825a2&hm=e2dfe95d94550a7372408b75c90a7f4d1892ac96308f5b2f66726b99b9e6faf1&" width="75%" alt="Banner">
 </p>
 
 <h2 align="center">
