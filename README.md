@@ -3,11 +3,11 @@
 </p>
 
 <h2 align="center">
-  kazurage
+  xxx
 </h2>
 
 <p align="center">
-  <a href="https://t.me/kazurage">
-    <img src="https://img.shields.io/badge/Telegram-kazurage-blue?style=for-the-badge&logo=telegram&logoColor=white&color=0088cc">
+  <a href="https://t.me/xxxike">
+    <img src="https://img.shields.io/badge/Telegram-xxxike-blue?style=for-the-badge&logo=telegram&logoColor=white&color=0088cc">
   </a>
 </p>
