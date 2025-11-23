@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/thexxxike">
+  <a href="https://t.me/xxxike">
     <img src="https://img.shields.io/badge/Telegram-@thexxxike-blue?style=for-the-badge&logo=telegram&logoColor=white&color=0088cc">
   </a>
 </p>
