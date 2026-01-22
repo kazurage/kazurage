@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.pinimg.com/736x/6f/9e/12/6f9e12d66afad740a525ce9747cf35bf.jpg" width="75%">
+<img src="https://thexxxike-source.netlify.app/img/banner.png" width="75%">
 </p>
 
 <p align="center">
